@@ -434,7 +434,7 @@
 
 @font-face {
     font-family: '4C Gandhi';
-    src: url('4CGandhi-Bold.woff2') format('woff2');
+    src: url('/4CGandhi-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
