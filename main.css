@@ -364,7 +364,7 @@
   
   /* GLOBAL VARIABLE FOR  BOLD  FONT WEIGHT */
 .krut011_bold, .krut040_bold, .krut040_bold_italic, .krut060_bold, .krut060_bold_italic, 
-.krut090_bold_italic, .krut090_bold, .krut100_bold, .4cGandhi {  font-weight: bold;  }
+.krut090_bold_italic, .krut090_bold, .krut100_bold {  font-weight: bold;  }
 
 
 /* GLOBAL VARIABLE FOR  NORMAL  FONT WEIGHT */
@@ -382,7 +382,7 @@
 
 
 /* GLOBAL VARIABLE FOR  NORMAL  FONT STYLE */
-.krut010, .krut011_bold, .krut040_c, .krut040_bold, .krut040_w, .krut040_100, .krut055, .krut060_bold, .krut060, .krut060_c, .krut060_100, .krut060_w, .krut070, .krut070_c, .krut070_w, .krut070_100, .krut080, .krut080_c, .krut080_w, .krut090_bold, .krut090, .krut090_c, .krut090_100, .krut090_w, .krut100, .krut100_bold, .krut100_c, .krut100_w, .krut100_100, .krut120, .krut120_c, .krut120_100, .krut130_c, .krut130_100, .krut130, .krut130_w , .4cGandhi {  font-style: normal;  }
+.krut010, .krut011_bold, .krut040_c, .krut040_bold, .krut040_w, .krut040_100, .krut055, .krut060_bold, .krut060, .krut060_c, .krut060_100, .krut060_w, .krut070, .krut070_c, .krut070_w, .krut070_100, .krut080, .krut080_c, .krut080_w, .krut090_bold, .krut090, .krut090_c, .krut090_100, .krut090_w, .krut100, .krut100_bold, .krut100_c, .krut100_w, .krut100_100, .krut120, .krut120_c, .krut120_100, .krut130_c, .krut130_100, .krut130, .krut130_w  {  font-style: normal;  }
 
 
             .krut010 {   font-family: "Kruti Dev 010";  }
@@ -440,5 +440,9 @@
     font-display: swap;
 }
 
-.4cGandhi {  font-family: '4C Gandhi'; }
+.4cGandhi {  {
+    font-family: '4C Gandhi';
+    font-weight: bold;
+    font-style: normal;
+}
 
