@@ -1,0 +1,433 @@
+     
+         @font-face {
+    font-family: 'Kruti Dev 010';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev010.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 011';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev011.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 040 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev040Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 040';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev040Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 040';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev040BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 040';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev040Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 040 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev040Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 040';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev040Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 055';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev050Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 060';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev060Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 070';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev070Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 070';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev070.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 070 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev070Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 070 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev070Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 070';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev070Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 080';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev080.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 080 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev080Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 080';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev080Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 080 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev080Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+  
+  @font-face {
+    font-family: 'Kruti Dev 090';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 090';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 090';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 090 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 090';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 090';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 090 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev090Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 100';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev100Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 100';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev100.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 100';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev100Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 100 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev100Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 100 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev100Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 100';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev100Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 120';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev120.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 120 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev120Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 120';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev120Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 130 Condensed';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev130Condensed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 130';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev130Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 130';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev130.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kruti Dev 130 Wide';
+    src: url('https://sachinaoh.github.io/fonts/KrutiDev130Wide.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+  
+  
+  
+  
+  /* GLOBAL VARIABLE FOR  BOLD  FONT WEIGHT */
+.krut011_bold, .krut040_bold, .krut040_bold_italic, .krut060_bold, .krut060_bold_italic, 
+.krut090_bold_italic, .krut090_bold, .krut100_bold {  font-weight: bold;  }
+
+
+/* GLOBAL VARIABLE FOR  NORMAL  FONT WEIGHT */
+.krut010, .krut040_c, .krut040_italic, .krut040_w, .krut055, .krut060, .krut060_c, .krut060_w, .krut060_italic, .krut070_italic, .krut070, .krut070_c, .krut070_w, .krut080, .krut080_c, .krut080_italic, .krut080_w,.krut090_c, .krut090_italic, .krut090_w, .krut100_italic, .krut100, .krut100_c, .krut100_w, .krut120, .krut120_c, .krut130_c, .krut130, .krut130_w  {  font-weight: normal;  }
+
+
+/* GLOBAL VARIABLE FOR  100  FONT WEIGHT */
+.krut040_100, .krut060_100, .krut070_100, .krut090_100, .krut100_100, .krut120_100, .krut130_100 {  font-weight: 100;  }
+
+
+
+/* GLOBAL VARIABLE FOR  ITALIC  FONT STYLE */
+
+.krut040_bold_italic, .krut040_italic, .krut060_bold_italic, .krut060_italic, .krut070_italic, .krut080_italic, .krut090_bold_italic, .krut100_italic  {  font-style: italic;  }
+
+
+/* GLOBAL VARIABLE FOR  NORMAL  FONT STYLE */
+.krut010, .krut011_bold, .krut040_c, .krut040_bold, .krut040_w, .krut040_100, .krut055, .krut060_bold, .krut060, .krut060_c, .krut060_100, .krut060_w, .krut070, .krut070_c, .krut070_w, .krut070_100, .krut080, .krut080_c, .krut080_w, .krut090_bold, .krut090, .krut090_c, .krut090_100, .krut090_w, .krut100, .krut100_bold, .krut100_c, .krut100_w, .krut100_100, .krut120, .krut120_c, .krut120_100, .krut130_c, .krut130_100, .krut130, .krut130_w  {  font-style: normal;  }
+
+
+            .krut010 {   font-family: 'Kruti Dev 010';  }
+       .krut011_bold {  font-family: 'Kruti Dev 011';  }
+          .krut040_c {  font-family: 'Kruti Dev 040 Condensed';  }
+       .krut040_bold {  font-family: 'Kruti Dev 040';  }
+.krut040_bold_italic {  font-family: 'Kruti Dev 040';  }
+     .krut040_italic {  font-family: 'Kruti Dev 040';  }
+          .krut040_w { font-family: 'Kruti Dev 040 Wide';  }
+        .krut040_100 {  font-family: 'Kruti Dev 040';  }
+            .krut055 {  font-family: 'Kruti Dev 055';  }
+       .krut060_bold {  font-family: 'Kruti Dev 060';  }
+.krut060_bold_italic { font-family: 'Kruti Dev 060';  }
+            .krut060 {  font-family: 'Kruti Dev 060';  }
+          .krut060_c {  font-family: 'Kruti Dev 060 Condensed';  }
+        .krut060_100 {  font-family: 'Kruti Dev 060';  }
+          .krut060_w { font-family: 'Kruti Dev 060 Wide';  }
+     .krut060_italic {  font-family: 'Kruti Dev 060';  }
+     .krut070_italic {  font-family: 'Kruti Dev 070';  }
+            .krut070 {  font-family: 'Kruti Dev 070';  }
+          .krut070_c { font-family: 'Kruti Dev 070 Condensed';  }
+          .krut070_w {  font-family: 'Kruti Dev 070 Wide';  }
+        .krut070_100 {  font-family: 'Kruti Dev 070';  }
+            .krut080 {  font-family: 'Kruti Dev 080';  }
+          .krut080_c {  font-family: 'Kruti Dev 080 Condensed';  }
+     .krut080_italic {  font-family: 'Kruti Dev 080';  }
+          .krut080_w {  font-family: 'Kruti Dev 080 Wide';  }
+.krut090_bold_italic {  font-family: 'Kruti Dev 090';  }
+       .krut090_bold {  font-family: 'Kruti Dev 090';  }
+            .krut090 {  font-family: 'Kruti Dev 090';  }
+          .krut090_c {  font-family: 'Kruti Dev 090 Condensed';  }
+        .krut090_100 {  font-family: 'Kruti Dev 090';  }
+     .krut090_italic {  font-family: 'Kruti Dev 090';  }
+          .krut090_w {  font-family: 'Kruti Dev 090 Wide';  }
+     .krut100_italic {  font-family: 'Kruti Dev 100';  }
+            .krut100 {  font-family: 'Kruti Dev 100';  }
+       .krut100_bold {  font-family: 'Kruti Dev 100';  }
+          .krut100_c {  font-family: 'Kruti Dev 100 Condensed';  }
+          .krut100_w {  font-family: 'Kruti Dev 100 Wide';  }
+        .krut100_100 {  font-family: 'Kruti Dev 100';  }
+            .krut120 {  font-family: 'Kruti Dev 120';  }
+          .krut120_c {  font-family: 'Kruti Dev 120 Condensed';  }
+        .krut120_100 {  font-family: 'Kruti Dev 120';  }
+          .krut130_c {  font-family: 'Kruti Dev 130 Condensed';  }
+        .krut130_100 {  font-family: 'Kruti Dev 130';  }
+            .krut130 {  font-family: 'Kruti Dev 130';  }
+          .krut130_w {  font-family: 'Kruti Dev 130 Wide';  }
